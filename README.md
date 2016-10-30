@@ -1,2 +1,3 @@
 # ClashRoyaleStickersFromFanForFans
-Clash Royale Stickers From Fan For Fans
+Clash Royale Stickers 
+From Clash Royale Fan For Clash Royale Fans
