@@ -1,0 +1,236 @@
+{
+  "stickers" : [
+    {
+      "filename" : "Happily_Face.sticker"
+    },
+    {
+      "filename" : "Happy_Face.sticker"
+    },
+    {
+      "filename" : "Sad_Face.sticker"
+    },
+    {
+      "filename" : "Angry_Face.sticker"
+    },
+    {
+      "filename" : "MysteryCard.sticker"
+    },
+    {
+      "filename" : "UnknownLegendaryCard.sticker"
+    },
+    {
+      "filename" : "goodgame.sticker"
+    },
+    {
+      "filename" : "goodluck.sticker"
+    },
+    {
+      "filename" : "oops.sticker"
+    },
+    {
+      "filename" : "thanks.sticker"
+    },
+    {
+      "filename" : "wellplayed.sticker"
+    },
+    {
+      "filename" : "wow.sticker"
+    },
+    {
+      "filename" : "wooden.sticker"
+    },
+    {
+      "filename" : "silver.sticker"
+    },
+    {
+      "filename" : "golden.sticker"
+    },
+    {
+      "filename" : "crown.sticker"
+    },
+    {
+      "filename" : "magical.sticker"
+    },
+    {
+      "filename" : "archers.sticker"
+    },
+    {
+      "filename" : "arrows.sticker"
+    },
+    {
+      "filename" : "baby_dragon.sticker"
+    },
+    {
+      "filename" : "balloon.sticker"
+    },
+    {
+      "filename" : "barbarian_hut.sticker"
+    },
+    {
+      "filename" : "barbarians.sticker"
+    },
+    {
+      "filename" : "bomb_tower.sticker"
+    },
+    {
+      "filename" : "bomber.sticker"
+    },
+    {
+      "filename" : "bowler.sticker"
+    },
+    {
+      "filename" : "cannon.sticker"
+    },
+    {
+      "filename" : "dark_prince.sticker"
+    },
+    {
+      "filename" : "elixir_collector.sticker"
+    },
+    {
+      "filename" : "fire_spirits.sticker"
+    },
+    {
+      "filename" : "fireball.sticker"
+    },
+    {
+      "filename" : "freeze.sticker"
+    },
+    {
+      "filename" : "furnace.sticker"
+    },
+    {
+      "filename" : "giant_skeleton.sticker"
+    },
+    {
+      "filename" : "giant.sticker"
+    },
+    {
+      "filename" : "goblin_barrel.sticker"
+    },
+    {
+      "filename" : "goblin_hut.sticker"
+    },
+    {
+      "filename" : "goblins.sticker"
+    },
+    {
+      "filename" : "golem.sticker"
+    },
+    {
+      "filename" : "guards.sticker"
+    },
+    {
+      "filename" : "hog_rider.sticker"
+    },
+    {
+      "filename" : "ice_spirit.sticker"
+    },
+    {
+      "filename" : "ice_wizard.sticker"
+    },
+    {
+      "filename" : "inferno_tower.sticker"
+    },
+    {
+      "filename" : "knight.sticker"
+    },
+    {
+      "filename" : "lava_hound.sticker"
+    },
+    {
+      "filename" : "lightning.sticker"
+    },
+    {
+      "filename" : "lumberjack.sticker"
+    },
+    {
+      "filename" : "miner.sticker"
+    },
+    {
+      "filename" : "mini_PEKKA.sticker"
+    },
+    {
+      "filename" : "minion_horde.sticker"
+    },
+    {
+      "filename" : "minions.sticker"
+    },
+    {
+      "filename" : "mirror.sticker"
+    },
+    {
+      "filename" : "mortar.sticker"
+    },
+    {
+      "filename" : "musketeer.sticker"
+    },
+    {
+      "filename" : "PEKKA.sticker"
+    },
+    {
+      "filename" : "poison.sticker"
+    },
+    {
+      "filename" : "prince.sticker"
+    },
+    {
+      "filename" : "princess.sticker"
+    },
+    {
+      "filename" : "rage.sticker"
+    },
+    {
+      "filename" : "rocket.sticker"
+    },
+    {
+      "filename" : "royal_giant.sticker"
+    },
+    {
+      "filename" : "skeleton_army.sticker"
+    },
+    {
+      "filename" : "skeletons.sticker"
+    },
+    {
+      "filename" : "sparky.sticker"
+    },
+    {
+      "filename" : "spear_goblins.sticker"
+    },
+    {
+      "filename" : "tesla.sticker"
+    },
+    {
+      "filename" : "the_log.sticker"
+    },
+    {
+      "filename" : "three_musketeers.sticker"
+    },
+    {
+      "filename" : "tombstone.sticker"
+    },
+    {
+      "filename" : "valkyrie.sticker"
+    },
+    {
+      "filename" : "witch.sticker"
+    },
+    {
+      "filename" : "wizard.sticker"
+    },
+    {
+      "filename" : "x-bow.sticker"
+    },
+    {
+      "filename" : "zap.sticker"
+    }
+  ],
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  },
+  "properties" : {
+    "grid-size" : "small"
+  }
+}
