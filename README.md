@@ -4,6 +4,7 @@ Clash Royale Stickers
 From Clash Royale Fan For Clash Royale Fans
 
 Fans only need to 
+
 1. create Apple Dev account
 2. download and install Xcode 
 3. add Apple Dev Account in Xcode
